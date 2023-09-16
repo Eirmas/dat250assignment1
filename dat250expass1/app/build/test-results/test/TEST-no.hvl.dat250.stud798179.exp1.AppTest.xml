@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="no.hvl.dat250.stud798179.exp1.AppTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-08-30T22:50:00" hostname="EIRIK-PC" time="0.012">
+  <properties/>
+  <testcase name="testConvertMilesToMeters()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.008"/>
+  <testcase name="testConvertMetersToMiles()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.001"/>
+  <testcase name="testConvertMetersToFeet()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.001"/>
+  <testcase name="testConvertFeetToMeters()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.001"/>
+  <testcase name="testConvertInchesToMeters()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.001"/>
+  <testcase name="testConvertMetersToInches()" classname="no.hvl.dat250.stud798179.exp1.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
