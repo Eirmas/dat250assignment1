@@ -1,3 +1,4 @@
 [submodule "dat250-expass4"]
 	path = dat250expass4
 	url = https://github.com/Eirmas/dat250-expass4
+	branch = main
