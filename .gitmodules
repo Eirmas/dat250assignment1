@@ -1,4 +1,8 @@
-[submodule "dat250-expass4"]
+[submodule "dat250expass4"]
 	path = dat250expass4
-	url = https://github.com/Eirmas/dat250-expass4
+	url = https://github.com/Eirmas/dat250expass4
+	branch = main
+[submodule "dat250expass5"]
+	path = dat250expass5
+	url = https://github.com/Eirmas/dat250expass5
 	branch = main
