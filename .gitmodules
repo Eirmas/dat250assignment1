@@ -10,3 +10,6 @@
 	path = dat250expass6
 	url = https://github.com/Eirmas/dat250expass6
 	branch = main
+[submodule "dat250expass7"]
+	path = dat250expass7
+	url = https://github.com/Eirmas/dat250expass7
